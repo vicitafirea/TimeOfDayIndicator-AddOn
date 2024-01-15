@@ -1,0 +1,11 @@
+## Interface: 11200
+## Title: TimeOfDayIndicator
+## Notes: Designed to work as a replacement of the UI's GameTimeFrame.
+## Author: Queen Bitch of the Universe
+## Version: 1.0
+## X-Date: 27-07-2023
+## SavedVariables: TimeOfDayIndicator_Variables
+
+
+TimeOfDayIndicator.xml
+TimeOfDayIndicator.lua
